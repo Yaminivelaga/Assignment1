@@ -1,0 +1,20 @@
+Math Scores by Test Preparation Course Completion:
+Students who completed the test preparation course performed better, with higher median math scores and fewer low outliers.
+
+Average Final Grades by Gender:
+Female students slightly outperformed male students on average, but the difference is minimal.
+
+Distribution of Final Grades:
+Most students scored between 60 and 80, following a normal distribution.
+
+Math Scores by Parental Level of Education: 
+Students with parents having higher education levels generally scored better in math, though there is variability.
+
+Distribution of Race/Ethnicity:
+Group C is the largest, followed by Groups D and B, with Groups A and E being smaller.
+
+I found that the boxplot and barplot were the most effective for comparing performance metrics, 
+such as math scores and final grades, as they clearly highlighted differences between groups.
+The histogram worked well for understanding the overall distribution of grades, while the pie chart was useful for showcasing proportions,
+such as race/ethnicity distribution. Overall, the boxplot stood out as the most suitable for providing detailed insights with variability
+and outliers clearly represented.
